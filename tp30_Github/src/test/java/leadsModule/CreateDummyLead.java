@@ -7,6 +7,8 @@ public class CreateDummyLead {
 			System.out.println("---Dummy----");
 			System.out.println("Hiii");
 			System.out.println("Hiii");
+			System.out.println("hello");
+				
 		}
 	}
 }
