@@ -5,6 +5,10 @@ public class CreateDummyLead {
 		for(int i=0;i<5;i++)
 		{
 			System.out.println("--good morning---");
+			System.out.println("--good evening---");
+			System.out.println("--good night---");
+
+
 		}
 	}
 }
