@@ -10,6 +10,10 @@ public class CreateDummyLead {
 			System.out.println("hello");
 			System.out.println("hello");
 			System.out.println("hello2");
+			System.out.println("---Dummy2----");
+			System.out.println("---Dummy3----");
+			System.out.println("---Dummy3----");
+			System.out.println("---Dummy3----");
 				
 		}
 	}
