@@ -5,6 +5,11 @@ public class CreateDummyLead {
 		for(int i=0;i<5;i++)
 		{
 			System.out.println("---Dummy----");
+			System.out.println("Hiii");
+			System.out.println("Hiii");
+			System.out.println("hello");
+			System.out.println("hello");
+				
 		}
 	}
 }
