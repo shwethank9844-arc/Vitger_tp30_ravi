@@ -7,6 +7,8 @@ public class CreateDummyLead {
 			System.out.println("--good morning---");
 			System.out.println("--good evening---");
 			System.out.println("--good night---");
+			System.out.println("--HI HOw are you---");
+
 
 
 			System.out.println("---Dummy----");
