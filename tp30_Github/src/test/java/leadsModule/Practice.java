@@ -9,6 +9,7 @@ public class Practice {
 	public void pract() {
 		
 		System.out.println(" -- merging -- ");
+		System.out.println(" -- merging -- ");
 		
 	}
 }
