@@ -10,6 +10,11 @@ public class Practice {
 		
 		System.out.println(" -- merging -- ");
 		System.out.println(" -- merging -- ");
-		
+	}
+	
+	@Test
+	public void sample()
+	{
+		System.out.println("2026");
 	}
 }
