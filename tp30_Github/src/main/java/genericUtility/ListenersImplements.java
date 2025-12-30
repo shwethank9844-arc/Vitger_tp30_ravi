@@ -61,6 +61,7 @@ public class ListenersImplements implements ITestListener,ISuiteListener {
 
 	@Override
 	public void onTestFailure(ITestResult result) {
+		new IretryAnalyzer().retry(result);
 		String mname=result.getMethod().getMethodName();
 		TakesScreenshot ts=(TakesScreenshot)BaseClass_Utilities.wdriver.get();//D
 		File src= ts.getScreenshotAs(OutputType.FILE);
