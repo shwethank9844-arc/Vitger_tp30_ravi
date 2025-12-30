@@ -80,6 +80,7 @@ public class BaseClass_Utilities {
 	@AfterClass(alwaysRun = true)
 	public void closethebrowser()
 	{
+		
 		driver.quit();
 		System.out.println("Browser closed successfully");
 	}
