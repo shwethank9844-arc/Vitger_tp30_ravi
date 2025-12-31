@@ -3,7 +3,7 @@
 <suite thread-count="2" parallel="tests" name="Suite">
   <test name="Test">
  <packages>
- <package name="productModule"></package>
+ <package name="readDatafrom"></package>
  </packages>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
